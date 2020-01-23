@@ -34,8 +34,6 @@ function change(file) {
 }
 
 function run() {
-
-
 	// 需要转换的文件目录
 	var dir = "./css".fullname(__dirname);
 	
